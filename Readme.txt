@@ -1,1 +1,0 @@
-this project is for controlling a robot with HoloLens, the users can control both virtual and real robot with gesture control.
